@@ -1,8 +1,8 @@
-### Olá, 👋 Me chamo Amaury Junior <a href="https://github.com/atqjunior">
+### Olá, 👋 Me chamo Amaury Queiroz Junior <img align="center" alt="GIF" src="https://octocat-generator-assets.githubusercontent.com/my-octocat-1616643553808.png" width="100px"/><a href="https://github.com/atqjunior">
   
 <br>
-   <img height="180em" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=atqjunior&layout=compact&theme=slateorange&icon_color=268bd2&title_color=268bd2&custom_title=Most Used Languages"/>
-   <img height="180em" align="center" src="https://github-readme-stats.vercel.app/api?username=atqjunior&include_all_commits=true&count_private=true&show_icons=true&theme=slateorange&icon_color=268bd2&title_color=268bd2&custom_title=Amaury Junior GitHub Stats"/>
+   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=atqjunior&layout=compact&theme=slateorange&icon_color=268bd2&title_color=268bd2&custom_title=Most Used Languages"/>
+   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=atqjunior&include_all_commits=true&count_private=true&show_icons=true&theme=slateorange&icon_color=268bd2&title_color=268bd2&custom_title=Amaury Junior GitHub Stats"/>
 <div>
 <div style="display: inline_block"><br>
   <img align="center" alt="atqjunior-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
@@ -19,7 +19,6 @@
 </div>
 
 <p><img src="https://komarev.com/ghpvc/?username=atqjunior&label=PROFILE+VIEWS"/></p>
-
 
 <!--
 **atqjunior/atqjunior** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
