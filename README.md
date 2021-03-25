@@ -1,16 +1,21 @@
 ### Olá, 👋 Me chamo Amaury Queiroz Junior <img align="center" alt="GIF" src="https://octocat-generator-assets.githubusercontent.com/my-octocat-1616643553808.png" width="100px"/><a href="https://github.com/atqjunior">
   
 <br>
-   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=atqjunior&layout=compact&theme=slateorange&icon_color=268bd2&title_color=268bd2&custom_title=Most Used Languages"/>
-   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=atqjunior&include_all_commits=true&count_private=true&show_icons=true&theme=slateorange&icon_color=268bd2&title_color=268bd2&custom_title=Amaury Junior GitHub Stats"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=atqjunior&show_icons=true&include_all_commits=true&count_private=true&theme=slateorange&icon_color=#268bd2&title_color=#268bd2&custom_title=Amaury Junior GitHub Stats"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=atqjunior&layout=compact&theme=slateorange&icon_color=#268bd2&title_color=#268bd2&custom_title=Most Used Languages"/>
 <div>
+<br>
 <div style="display: inline_block"><br>
   <img align="center" alt="atqjunior-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="atqjunior-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="atqjunior-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
 </div>
 
+  <br>
+  
   ##
+
+  <br>
 
   <div>
   	<a href = "mailto: amaury.tqj@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23EA4335?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
