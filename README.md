@@ -1,11 +1,12 @@
 ### Olá, 👋 Me chamo Amaury Junior <a href="https://github.com/atqjunior">
   
 <br>
-  <div>
    <img height="180em" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=atqjunior&layout=compact&theme=slateorange&icon_color=268bd2&title_color=268bd2&custom_title=Most Used Languages"/>
 
+<br>
+
    <img height="180em" align="center" src="https://github-readme-stats.vercel.app/api?username=atqjunior&include_all_commits=true&count_private=true&show_icons=true&theme=slateorange&icon_color=268bd2&title_color=268bd2&custom_title=Amaury Junior GitHub Stats"/>
-  </div>
+
 
 <div style="display: inline_block"><br>
   <img align="center" alt="atqjunior-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
