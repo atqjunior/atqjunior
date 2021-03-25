@@ -1,50 +1,63 @@
-### Olá, 👋 Me chamo Amaury Queiroz Junior <img align="center" alt="GIF" src="https://octocat-generator-assets.githubusercontent.com/my-octocat-1616643553808.png" width="100px"/><a href="https://github.com/atqjunior">
-  
-<br>
-<table align="center">
-      <tr>
-          <td>
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=atqjunior&show_icons=true&include_all_commits=true&theme=slateorange&icon_color=#268bd2&title_color=#268bd2&custom_title=Amaury Junior GitHub Stats"/>
-          </td>
-          <td>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=atqjunior&layout=default&theme=slateorange&icon_color=#268bd2&title_color=#268bd2&custom_title=Most Used Languages"/>
-          </td>
-      </tr>
-</table>
+## <img align="left" alt="atqjunior-myoctocat" src="https://octocat-generator-assets.githubusercontent.com/my-octocat-1616643553808.png" width="180px"/><a href="https://github.com/atqjunior"></a>
 
-<div>
+## Olá me chamo **Amaury Queiroz Junior**
+
+Atualmente moro em Fortaleza/Ce, Brasil. Estou em busca de me tornar um **desenvolvedor full stack**, sou um entusiasta da tecnologia, adoro programar, aprender novas linguagens e ler no meu tempo livre. 
+
+🚀 Também sou designer e faço design gráfico para meu portfólio pessoal..
+
+---
+
+**MEUS INTERESSES PESSOAIS:**
+
+- 👩‍💻 Estou estudando front-end com **javascript**, **HTML5** e **CSS3** e utilizando o framework **Node.js**;
+- 💼 Sou aficionada por tecnologia, por este motivo estou sempre estudando e evoluindo na minha carreira;
+
+* 👾 Meus hobbies são: 
+  * Estudar sobre UX e UI; 
+  * Tocar violão;
+  * Ler livros;
+  * Jogar CALL OF DUTY;
+
+* 💬 Fique a vontade para me chamar, ficarei muito feliz em poder ajudar;
+* 📫 Se quiser pode enviar um email para amaury.tqj@gmail.com.
+* 📝 Veja meu <a href="https://https://www.linkedin.com/in/atqjunior/" target="_blank">Linkedin</a> para mais informações.
+
+<div align="left">
+<span>
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=atqjunior&show_icons=true&include_all_commits=true&count_private=true&theme=slateorange&icon_color=#268bd2&title_color=#268bd2&custom_title=Amaury Junior GitHub Stats"/>
+</span>
+<span>
+  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=atqjunior&layout=default&&langs_count=5&theme=slateorange&icon_color=#268bd2&title_color=#268bd2&custom_title=Most Used Languages"/>
+</span>
+
+---
 <br>
-<div style="display: inline_block"><br>
-  <img align="center" alt="atqjunior-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+
+**LINGUAGENS EM ESTUDO:**
+
+  <br>
+  <img align="center" alt="atqjunior-JS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="atqjunior-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="atqjunior-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-</div>
-
+  <img aign="center" alt="atqjunior-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <br>
   
-  ##
+---
+<br> 
 
-  <br>
+**PRINCIPAIS REDES SOCIAIS:**
 
-  <div>
-  	<a href = "mailto: amaury.tqj@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23EA4335?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-    <a href="https://www.linkedin.com/in/atqjunior" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-    <a href="https://instagram.com/atqjunior" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-</div>
+<br>
 
-<p><img src="https://komarev.com/ghpvc/?username=atqjunior&label=PROFILE+VIEWS"/></p>
+<a href="https://www.linkedin.com/in/atqjunior" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+<a href="https://instagram.com/atqjunior" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 
-<!--
-**atqjunior/atqjunior** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<br>
 
-Here are some ideas to get you started:
+![KOMAREV PROFILE VIEWS](https://komarev.com/ghpvc/?username=atqjunior&label=PROFILE+VIEWS&)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+<br>
+
+>[Baseado](https://github.com/Strongreen) 
+>🧡 [Strongreen](https://github.com/Strongreen)
