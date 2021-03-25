@@ -1,8 +1,17 @@
 ### Olá, 👋 Me chamo Amaury Queiroz Junior <img align="center" alt="GIF" src="https://octocat-generator-assets.githubusercontent.com/my-octocat-1616643553808.png" width="100px"/><a href="https://github.com/atqjunior">
   
 <br>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=atqjunior&show_icons=true&include_all_commits=true&count_private=true&theme=slateorange&icon_color=#268bd2&title_color=#268bd2&custom_title=Amaury Junior GitHub Stats"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=atqjunior&layout=compact&theme=slateorange&icon_color=#268bd2&title_color=#268bd2&custom_title=Most Used Languages"/>
+<table align="center">
+      <tr>
+          <td>
+<img height="170em" src="https://github-readme-stats.vercel.app/api?username=atqjunior&show_icons=true&include_all_commits=true&theme=slateorange&icon_color=#268bd2&title_color=#268bd2&custom_title=Amaury Junior GitHub Stats"/>
+          </td>
+          <td>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=atqjunior&layout=default&theme=slateorange&icon_color=#268bd2&title_color=#268bd2&custom_title=Most Used Languages"/>
+          </td>
+      </tr>
+</table>
+
 <div>
 <br>
 <div style="display: inline_block"><br>
