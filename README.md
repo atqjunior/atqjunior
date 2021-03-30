@@ -10,7 +10,7 @@ Atualmente moro em Fortaleza/Ce, Brasil. Estou em busca de me tornar um **desenv
 
 **MEUS INTERESSES PESSOAIS:**
 
-- 👩‍💻 Estou estudando front-end com **javascript**, **HTML5** e **CSS3** e utilizando o framework **Node.js**;
+- 👩‍💻 Estou estudando front-end com **javascript**, **HTML5** e **CSS3** e **Node.js**;
 - 💼 Sou aficionado por tecnologia, por este motivo estou sempre estudando e evoluindo na minha carreira;
 
 * 👾 Meus hobbies são: 
