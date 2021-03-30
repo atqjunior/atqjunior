@@ -2,7 +2,7 @@
 
 ## Olá me chamo **Amaury Queiroz Junior**
 
-Atualmente moro em Fortaleza/Ce, Brasil. Estou em busca de me tornar um **desenvolvedor full stack**, sou um entusiasta da tecnologia, adoro programar, aprender novas linguagens e ler no meu tempo livre. 
+Atualmente moro em Fortaleza/Ce, Brasil. Estou em busca de me tornar um **desenvolvedor full stack**, sou aficionado por tecnologia, adoro programar, aprender novas linguagens e ler no meu tempo livre. 
 
 🚀 Também sou designer e faço design gráfico para meu portfólio pessoal..
 
@@ -11,7 +11,7 @@ Atualmente moro em Fortaleza/Ce, Brasil. Estou em busca de me tornar um **desenv
 **MEUS INTERESSES PESSOAIS:**
 
 - 👩‍💻 Estou estudando front-end com **javascript**, **HTML5** e **CSS3** e utilizando o framework **Node.js**;
-- 💼 Sou aficionada por tecnologia, por este motivo estou sempre estudando e evoluindo na minha carreira;
+- 💼 Sou aficionado por tecnologia, por este motivo estou sempre estudando e evoluindo na minha carreira;
 
 * 👾 Meus hobbies são: 
   * Estudar sobre UX e UI; 
@@ -58,5 +58,5 @@ Atualmente moro em Fortaleza/Ce, Brasil. Estou em busca de me tornar um **desenv
 ---
 <br>
 
->[Baseado](https://github.com/Strongreen) 
+>[Baseado no layout](https://github.com/Strongreen) 
 >🧡 [Strongreen](https://github.com/Strongreen)
