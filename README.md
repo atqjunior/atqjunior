@@ -1,23 +1,24 @@
-## <img align="left" alt="atqjunior-myoctocat" src="https://octocat-generator-assets.githubusercontent.com/my-octocat-1616643553808.png" width="180px"/><a href="https://github.com/atqjunior"></a>
+## Olá, Seja bem vind@ ao meu repositório, me chamo **Amaury Queiroz Junior**
 
-## Olá me chamo **Amaury Queiroz Junior**
+Atualmente moro em Fortaleza/Ce, Brasil, sou estudante de desenvolvimento web na Trybe, estou em busca de me tornar um **desenvolvedor web full stack**, sou aficionado por tecnologia, amo codar, resolver problemas, aprender novas linguagens e ler no meu tempo livre. 
 
-Atualmente moro em Fortaleza/Ce, Brasil. Estou em busca de me tornar um **desenvolvedor full stack**, sou aficionado por tecnologia, adoro programar, aprender novas linguagens e ler no meu tempo livre. 
-
-🚀 Também sou designer e faço design gráfico para meu portfólio pessoal..
+🚀 Também me aventuro como designer e fotógrafo...
 
 ---
 
-**MEUS INTERESSES PESSOAIS:**
+## **MINHAS SOFT SKILS E HARD SKILS**
 
-- 👩‍💻 Estou estudando front-end com **javascript**, **HTML5** e **CSS3** e **Node.js**;
-- 💼 Sou aficionado por tecnologia, por este motivo estou sempre estudando e evoluindo na minha carreira;
+  * 👩‍💻 Minha stack atual: front-end com **javascript**, **HTML5**, **CSS3** **React** **ContextApi** e **Jest**;
+  * 🤝 Procuro desenvolver diariamente comunicação, empatia, colaboração, dar e receber feedbacks, a cada dia procuro ser um profissional e uma pessoa melhor.
+  * 💼 Estou em busca de oportunidades para desenvolver meus conhecimentos e aprender mais e mais...
 
-* 👾 Meus hobbies são: 
-  * Estudar sobre UX e UI; 
+## * 👾 Meus hobbies são: 
+  * Estar com a família;
   * Tocar violão;
   * Ler livros;
-  * Jogar CALL OF DUTY;
+  * Fotografar Momentos;
+
+<br>
 
 * 💬 Fique a vontade para me chamar, ficarei muito feliz em poder ajudar;
 * 📫 Se quiser pode enviar um email para amaury.tqj@gmail.com.
@@ -40,6 +41,7 @@ Atualmente moro em Fortaleza/Ce, Brasil. Estou em busca de me tornar um **desenv
   <img align="left" alt="atqjunior-JS" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img aign="left" alt="atqjunior-CSS" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="left" alt="atqjunior-HTML" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="left" alt="atqjunior-REACT" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
 
 ---
 <br> 
@@ -53,10 +55,7 @@ Atualmente moro em Fortaleza/Ce, Brasil. Estou em busca de me tornar um **desenv
 
 <br>
 
-![KOMAREV PROFILE VIEWS](https://komarev.com/ghpvc/?username=atqjunior&label=PROFILE+VIEWS&)
-
 ---
 <br>
-
->[Baseado no layout](https://github.com/Strongreen) 
->🧡 [Strongreen](https://github.com/Strongreen)
+ 
+![KOMAREV PROFILE VIEWS](https://komarev.com/ghpvc/?username=atqjunior&label=PROFILE+VIEWS&)
