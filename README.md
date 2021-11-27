@@ -2,11 +2,11 @@
 <h1 align="left">Olá <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, eu sou Amaury Queiroz Jr</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=atqjunior&label=Profile+views&color=blue" alt="Profile views" /> </p>
 
-### 👨‍💻 Estudante de Desenvolvimento Web na [Trybe](https://www.betrybe.com/)
-### 🇧🇷 Atualmente moro em Fortaleza/Ce, Brasil 
-### 💬 Pergunte-me sobre ** JavaScript, HTML, CSS, React, Context API **
-### ⚡ Curiosidades: Estar com a Família e Amigos, tocar (violão) e cantar, viajar, fotografar;
-### 😄 Pronomes: Ele / Dele
+#### 👨‍💻 Estudante de Desenvolvimento Web na [Trybe](https://www.betrybe.com/)
+#### 🇧🇷 Atualmente moro em Fortaleza/Ce, Brasil 
+#### 💬 Pergunte-me sobre **JavaScript, HTML, CSS, React, Context API**
+#### ⚡ Curiosidades: Estar com a Família e Amigos, tocar (violão) e cantar, viajar, fotografar;
+#### 😄 Pronomes: Ele / Dele
 
 <br/>
 
