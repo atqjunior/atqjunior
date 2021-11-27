@@ -30,8 +30,8 @@
 
 ## **Sobre mim**
 
-<p align="left" style="background:#202024;padding:10px;border-radius:3px;">
-Estou em busca de me tornar um desenvolvedor web full stack, sou aficionado por tecnologia, amo codar, resolver problemas, aprender novas linguagens e estar com a família no meu tempo livre. 🚀 Também me aventuro como designer e fotógrafo...🤝 Estou diariamente desenvolvendo minha comunicação, empatia, colaboração, dar e receber feedbacks, aprender a aprender para ser um profissional e uma pessoa melhor. 💼 Estou em busca de oportunidades para desenvolver meus conhecimentos e aprender mais e mais...
+<p align="justify" style="background:#202024;padding:15px;border-radius:3px;width:65%;">
+Estou em busca de me tornar um desenvolvedor web full stack, sou um cara aficionado por tecnologia, amo codar, resolver problemas, aprender novas linguagens e estar com a família no meu tempo livre, ah e também me aventuro como designer e fotógrafo. 🤝 Estou diariamente desenvolvendo minha comunicação, empatia, colaboração, dar e receber feedbacks, aprender a aprender para ser um profissional e uma pessoa melhor. 💼 Estou em busca de oportunidades para desenvolver meus conhecimentos e aprender mais e mais. Uma frase que levo para vida é "O desafio que você não enfrenta, vira seu limite"...
 </p>
 
 <br>
